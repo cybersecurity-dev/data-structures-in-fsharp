@@ -40,3 +40,16 @@
 |[Priority queue](https://en.wikipedia.org/wiki/Priority_queue)|[source](#)|
 |[Double-ended queue](https://en.wikipedia.org/wiki/Double-ended_queue)|[source](#)|
 |[Double-ended priority queue](https://en.wikipedia.org/wiki/Double-ended_priority_queue)|[source](#)|
+
+
+##
+
+### Contributing
+
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/data-structures-in-fsharp/graphs/contributors)!
+
+[🔼 Back to top](#data-structures-in-f)
