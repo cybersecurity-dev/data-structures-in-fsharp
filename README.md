@@ -5,7 +5,7 @@
         </a>
     </p>
 
-# [Data Structures](https://en.wikipedia.org/wiki/Data_structure) in [F#](https://github.com/cybersecurity-dev/awesome-fsharp-programming-language)
+# [Data Structures](https://wikipedia.org/wiki/Data_structure) in [F#](https://github.com/cybersecurity-dev/awesome-fsharp-programming-language)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
@@ -19,6 +19,12 @@
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
+
+## 📖 Contents
+- [Data Structures](#data-structures)
+- [My Awesome Lists](#my-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 ## Data structures
 * [List](https://en.wikipedia.org/wiki/List_(abstract_data_type))
