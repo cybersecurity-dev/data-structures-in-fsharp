@@ -5,6 +5,8 @@
         </a>
     </p>
 
+
+
 # [Data Structures](https://wikipedia.org/wiki/Data_structure) in [F#](https://github.com/cybersecurity-dev/awesome-fsharp-programming-language)
 </div>
 
@@ -79,6 +81,54 @@ style G fill:#9b59b6,color:#fff
 |[Double-ended queue](https://wikipedia.org/wiki/Double-ended_queue)|[source](#)|
 |[Double-ended priority queue](https://wikipedia.org/wiki/Double-ended_priority_queue)|[source](#)|
 
+```mermaid
+mindmap
+  root((Data Structure Selection))
+
+    Fast Access
+      Array
+        Search O(1)
+        Insert O(n)
+        Delete O(n)
+
+    Frequent Updates
+      Linked List
+        Search O(n)
+        Insert O(1)
+        Delete O(1)
+
+    Fast Lookup
+      Hash Table
+        Search O(1)
+        Insert O(1)
+        Delete O(1)
+
+    Ordered Data
+      AVL Tree
+      Red Black Tree
+        Search O(log n)
+        Insert O(log n)
+        Delete O(log n)
+
+    Priority Processing
+      Heap
+        Insert O(log n)
+        Extract O(log n)
+
+    Prefix Search
+      Trie
+        Search O(m)
+        Prefix O(m)
+
+    Network Data
+      Graph
+        BFS
+        DFS
+
+    Range Queries
+      Segment Tree
+      Fenwick Tree
+```
 
 ##
 
